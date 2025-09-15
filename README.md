@@ -1,8 +1,5 @@
 # ethnofusionai-ml-models
 BigQuery ML scripts for modeling billing complexity, conversion flags, discharge time, and engagement tiers
-
-# Ethnofusion ML Models
-
 This repository contains BigQuery ML scripts for modeling key operational and clinical metrics using structured data pipelines.
 
 ## Models
